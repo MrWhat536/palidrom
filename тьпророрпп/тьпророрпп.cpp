@@ -16,7 +16,6 @@ bool checker(string word)
 }
 
 int main() {
-	while (true) {
 		setlocale(LC_ALL, "ru");
 		string wow;
 		getline(cin, wow); "\n";
@@ -29,5 +28,5 @@ int main() {
 		{
 			cout << "Это не палиндром\n";
 		}
-	}
+	
 }
