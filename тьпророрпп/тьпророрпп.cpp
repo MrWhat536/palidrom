@@ -1,8 +1,5 @@
 ﻿#include <iostream>
-#include<vector>
-#include<algorithm>
 #include<sstream>
-#include<vector>
 
 using namespace std;
 
