@@ -19,7 +19,6 @@ int main() {
 	while (true) {
 		setlocale(LC_ALL, "ru");
 		string wow;
-		string www;
 		getline(cin, wow); "\n";
 		wow.erase(remove(wow.begin(), wow.end(),' '),wow.end());
 		if (checker(wow))
